@@ -23,5 +23,13 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishluc12/API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ishluc12/API/issues"
+  },
+  "homepage": "https://github.com/ishluc12/API#readme"
 }
